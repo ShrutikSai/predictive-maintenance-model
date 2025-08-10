@@ -24,6 +24,16 @@ Access the dataset here:
 - Scikit-learn  
 - category_encoders
 
+## Results
+
+| Model               | Training Accuracy | Test Accuracy |
+|---------------------|-------------------|---------------|
+| Decision Tree       | 100%              | 99.65%        |
+| Random Forest       | 100%              | 99.35%        |
+| Support Vector Machine | 96.73%          | 96.25%        |
+| Logistic Regression | 96.64%            | 96.05%        |
+
+
 ---
 
 Feel free to explore and adapt the code for predictive maintenance use cases.
